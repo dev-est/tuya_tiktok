@@ -5,7 +5,7 @@ Tuya Tiktok is an application utilising the Tuya API alongside scraping TikTok u
 
 ### Installation
 
-Dillinger requires [Python 3](https://www.python.org/downloads/) to run.
+TuyaTikTok requires [Python 3](https://www.python.org/downloads/) to run.
 
 Install the requirements and run the script.
 
